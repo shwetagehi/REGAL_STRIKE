@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZREGAL_S_CURRCODE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>05</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>31</SCRLEN3>
+    <DDTEXT>Local currency of airline</DDTEXT>
+    <REPTEXT>Curr.</REPTEXT>
+    <SCRTEXT_S>Currency</SCRTEXT_S>
+    <SCRTEXT_M>Airline Currency</SCRTEXT_M>
+    <SCRTEXT_L>Airline local currency</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <DEFFDNAME>CURR</DEFFDNAME>
+    <DATATYPE>CUKY</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000005</OUTPUTLEN>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>2</LANGU>
+    <LANGU>3</LANGU>
+    <LANGU>4</LANGU>
+    <LANGU>5</LANGU>
+    <LANGU>6</LANGU>
+    <LANGU>8</LANGU>
+    <LANGU>A</LANGU>
+    <LANGU>B</LANGU>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+    <LANGU>F</LANGU>
+    <LANGU>G</LANGU>
+    <LANGU>H</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>J</LANGU>
+    <LANGU>K</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>M</LANGU>
+    <LANGU>N</LANGU>
+    <LANGU>O</LANGU>
+    <LANGU>P</LANGU>
+    <LANGU>Q</LANGU>
+    <LANGU>R</LANGU>
+    <LANGU>S</LANGU>
+    <LANGU>T</LANGU>
+    <LANGU>U</LANGU>
+    <LANGU>V</LANGU>
+    <LANGU>W</LANGU>
+    <LANGU>d</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>1</DDLANGUAGE>
+     <DDTEXT>航班的本地货币</DDTEXT>
+     <REPTEXT>货币</REPTEXT>
+     <SCRTEXT_S>货币</SCRTEXT_S>
+     <SCRTEXT_M>航线货币</SCRTEXT_M>
+     <SCRTEXT_L>航班的本地货币</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>2</DDLANGUAGE>
+     <DDTEXT>สกุลเงินในประเทศของสายการบิน</DDTEXT>
+     <REPTEXT>Curr.</REPTEXT>
+     <SCRTEXT_S>สกุลเงิน</SCRTEXT_S>
+     <SCRTEXT_M>Airline Currency</SCRTEXT_M>
+     <SCRTEXT_L>สกุลเงินในประเทศของสายการบิน</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>3</DDLANGUAGE>
+     <DDTEXT>항공사의 현지통화</DDTEXT>
+     <REPTEXT>통화</REPTEXT>
+     <SCRTEXT_S>통화</SCRTEXT_S>
+     <SCRTEXT_M>항공사 통화</SCRTEXT_M>
+     <SCRTEXT_L>항공사 현지 통화</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>4</DDLANGUAGE>
+     <DDTEXT>Monedă locală companie aeriană</DDTEXT>
+     <REPTEXT>Mdă</REPTEXT>
+     <SCRTEXT_S>Monedă</SCRTEXT_S>
+     <SCRTEXT_M>Mdă comp.aeriană</SCRTEXT_M>
+     <SCRTEXT_L>Monedă locală companie aeriană</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>5</DDLANGUAGE>
+     <DDTEXT>Domača valuta letalske družbe</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Val.letal.družbe</SCRTEXT_M>
+     <SCRTEXT_L>Domača valuta letalske družbe</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>6</DDLANGUAGE>
+     <DDTEXT>Lokalna valuta zrakoplovne kompanije</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Zr.luka lok.val.</SCRTEXT_M>
+     <SCRTEXT_L>Lokalna valuta zračne luke</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>8</DDLANGUAGE>
+     <DDTEXT>Внутрішня валюта авіакомпанії</DDTEXT>
+     <REPTEXT>Вал.</REPTEXT>
+     <SCRTEXT_S>Валюта</SCRTEXT_S>
+     <SCRTEXT_M>Валюта авіакомп.</SCRTEXT_M>
+     <SCRTEXT_L>Внутрішня валюта авіакомпанії</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>A</DDLANGUAGE>
+     <DDTEXT>عملة محلية للخطوط الجوية</DDTEXT>
+     <REPTEXT>عملة</REPTEXT>
+     <SCRTEXT_S>العملة</SCRTEXT_S>
+     <SCRTEXT_M>عملة خطوط جوية</SCRTEXT_M>
+     <SCRTEXT_L>عملة محلية للخطوط الجوية</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>B</DDLANGUAGE>
+     <DDTEXT>מטבע מקומי של חברת התעופה</DDTEXT>
+     <REPTEXT>מטבע</REPTEXT>
+     <SCRTEXT_S>מטבע</SCRTEXT_S>
+     <SCRTEXT_M>מט&quot;מ חברת תעופה</SCRTEXT_M>
+     <SCRTEXT_L>מט&quot;מ חברת תעופה</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>Firemní měna letecké společnosti</DDTEXT>
+     <REPTEXT>Měna</REPTEXT>
+     <SCRTEXT_S>Měna</SCRTEXT_S>
+     <SCRTEXT_M>FirMěnaLetSpol</SCRTEXT_M>
+     <SCRTEXT_L>Firemní měna letec.společnosti</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Hauswährung der Fluggesellschaft</DDTEXT>
+     <REPTEXT>Währ</REPTEXT>
+     <SCRTEXT_S>Währung</SCRTEXT_S>
+     <SCRTEXT_M>Währ. d. Flugg.</SCRTEXT_M>
+     <SCRTEXT_L>Hauswährung d. Fluggesellschaft</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>F</DDLANGUAGE>
+     <DDTEXT>Devise interne de la compagnie aérienne</DDTEXT>
+     <REPTEXT>Dev.</REPTEXT>
+     <SCRTEXT_S>Devise</SCRTEXT_S>
+     <SCRTEXT_M>Devise interne</SCRTEXT_M>
+     <SCRTEXT_L>Devise interne de cie aérienne</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>G</DDLANGUAGE>
+     <DDTEXT>Εγχώριο νόμισμα αερογραμμής</DDTEXT>
+     <REPTEXT>Νόμ.</REPTEXT>
+     <SCRTEXT_S>Νόμισμα</SCRTEXT_S>
+     <SCRTEXT_M>Νόμισμ.Αερογραμ.</SCRTEXT_M>
+     <SCRTEXT_L>Εγχώριο νόμισμα αερογραμμής</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>H</DDLANGUAGE>
+     <DDTEXT>Légitársaság saját pénzneme</DDTEXT>
+     <REPTEXT>Pnem</REPTEXT>
+     <SCRTEXT_S>Pénznem</SCRTEXT_S>
+     <SCRTEXT_M>Légits.pénzneme</SCRTEXT_M>
+     <SCRTEXT_L>Légitársaság saját pénzneme</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Valuta interna della compagnia aerea</DDTEXT>
+     <REPTEXT>Div.</REPTEXT>
+     <SCRTEXT_S>Divisa</SCRTEXT_S>
+     <SCRTEXT_M>Div.in.comp.aer.</SCRTEXT_M>
+     <SCRTEXT_L>Valuta int. compagnia aerea</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>J</DDLANGUAGE>
+     <DDTEXT>航空会社の国内通貨</DDTEXT>
+     <REPTEXT>通貨</REPTEXT>
+     <SCRTEXT_S>通貨</SCRTEXT_S>
+     <SCRTEXT_M>航空会社通貨</SCRTEXT_M>
+     <SCRTEXT_L>航空会社の国内通貨</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>K</DDLANGUAGE>
+     <DDTEXT>Intern valuta for flyselskab</DDTEXT>
+     <REPTEXT>Valu.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Valu. f. flysel.</SCRTEXT_M>
+     <SCRTEXT_L>Intern valuta for flyselskab</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Waluta krajowa linii lotniczej</DDTEXT>
+     <REPTEXT>Wal.</REPTEXT>
+     <SCRTEXT_S>Waluta</SCRTEXT_S>
+     <SCRTEXT_M>Wal.linii lotn.</SCRTEXT_M>
+     <SCRTEXT_L>Waluta krajowa linii lotniczej</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>M</DDLANGUAGE>
+     <DDTEXT>航線的本國貨幣</DDTEXT>
+     <REPTEXT>幣別</REPTEXT>
+     <SCRTEXT_S>幣別</SCRTEXT_S>
+     <SCRTEXT_M>航線貨幣</SCRTEXT_M>
+     <SCRTEXT_L>航線本國貨幣</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>N</DDLANGUAGE>
+     <DDTEXT>Eigen valuta van de luchtvaartmaatschappij</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Valuta maatsch.</SCRTEXT_M>
+     <SCRTEXT_L>Eigen valuta vliegmaatschappij</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>O</DDLANGUAGE>
+     <DDTEXT>Lokal valuta for flyselskap</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Val. for flysel.</SCRTEXT_M>
+     <SCRTEXT_L>Lokal valuta for flyselskap</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Moeda interna da companhia aérea</DDTEXT>
+     <REPTEXT>Moeda</REPTEXT>
+     <SCRTEXT_S>Moeda</SCRTEXT_S>
+     <SCRTEXT_M>Moeda comp.aérea</SCRTEXT_M>
+     <SCRTEXT_L>Moeda interna companhia aérea</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>Q</DDLANGUAGE>
+     <DDTEXT>Firemná mena leteckej spoločnosti</DDTEXT>
+     <REPTEXT>Mena</REPTEXT>
+     <SCRTEXT_S>Mena</SCRTEXT_S>
+     <SCRTEXT_M>Mena let.spol.</SCRTEXT_M>
+     <SCRTEXT_L>Firem.mena leteckej spoločnosti</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Внутренняя валюта авиакомпании</DDTEXT>
+     <REPTEXT>Валют</REPTEXT>
+     <SCRTEXT_S>Валюта</SCRTEXT_S>
+     <SCRTEXT_M>ВнутрВлтАвиакомп</SCRTEXT_M>
+     <SCRTEXT_L>Внутренняя валюта авиакомпании</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Moneda local de la compañía aérea</DDTEXT>
+     <REPTEXT>Mon.</REPTEXT>
+     <SCRTEXT_S>Moneda</SCRTEXT_S>
+     <SCRTEXT_M>Mon.loc.cia.aér.</SCRTEXT_M>
+     <SCRTEXT_L>Moneda local de compañía aérea</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>Havayolu şirketinin ulusal para birimi</DDTEXT>
+     <REPTEXT>PB</REPTEXT>
+     <SCRTEXT_S>PB</SCRTEXT_S>
+     <SCRTEXT_M>Ha.yl.şir.PB</SCRTEXT_M>
+     <SCRTEXT_L>Havayolu şirketinin UPB</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>U</DDLANGUAGE>
+     <DDTEXT>Lentoyhtiön kotivaluutta</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuutta</SCRTEXT_S>
+     <SCRTEXT_M>Lentoyhtiön val.</SCRTEXT_M>
+     <SCRTEXT_L>Lentoyhtiön kotivaluutta</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>V</DDLANGUAGE>
+     <DDTEXT>Flygbolagets lokala valuta</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Flygbol. valuta</SCRTEXT_M>
+     <SCRTEXT_L>Flygbolagets lokala valuta</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>W</DDLANGUAGE>
+     <DDTEXT>Местна валута на авиолиния</DDTEXT>
+     <REPTEXT>Влута</REPTEXT>
+     <SCRTEXT_S>Валута</SCRTEXT_S>
+     <SCRTEXT_M>Вал.авиокомпания</SCRTEXT_M>
+     <SCRTEXT_L>Местна валута на авиолиния</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>d</DDLANGUAGE>
+     <DDTEXT>Lokalna valuta avio kompanije</DDTEXT>
+     <REPTEXT>Val.</REPTEXT>
+     <SCRTEXT_S>Valuta</SCRTEXT_S>
+     <SCRTEXT_M>Val.avio komp.</SCRTEXT_M>
+     <SCRTEXT_L>Lokalna valuta avio kompanije</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
